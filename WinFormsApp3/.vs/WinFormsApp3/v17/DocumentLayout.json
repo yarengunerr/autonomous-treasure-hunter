@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|c:\\users\\guner\\onedrive\\masa\u00FCst\u00FC\\winformsapp3\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\nesnebilgisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:nesnebilgisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:engel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\lokasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:lokasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\hareketlinesneler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:hareketlinesneler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C6BF4-6C63-43CA-A7CC-EE324102CEF0}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\guner\\source\\repos\\WinFormsApp3\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\WinFormsApp3\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:59:40.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:50:21.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HareketliNesneler.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\HareketliNesneler.cs",
+              "RelativeDocumentMoniker": "HareketliNesneler.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\HareketliNesneler.cs",
+              "RelativeToolTip": "HareketliNesneler.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAiwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:53:31.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwEkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:15:21.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engel.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Engel.cs",
+              "RelativeDocumentMoniker": "Engel.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Engel.cs",
+              "RelativeToolTip": "Engel.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAcwHIBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:14:43.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lokasyon.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Lokasyon.cs",
+              "RelativeDocumentMoniker": "Lokasyon.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Lokasyon.cs",
+              "RelativeToolTip": "Lokasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:14:14.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NesneBilgisi.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\NesneBilgisi.cs",
+              "RelativeDocumentMoniker": "NesneBilgisi.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\NesneBilgisi.cs",
+              "RelativeToolTip": "NesneBilgisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:13:46.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Karakter.cs",
+              "RelativeDocumentMoniker": "Karakter.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Karakter.cs",
+              "RelativeToolTip": "Karakter.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:13:00.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAUDAAAAAAAAAAAYwBkDAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:15:44.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
